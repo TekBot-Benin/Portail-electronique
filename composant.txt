@@ -1,0 +1,10 @@
+Composant pour le portail electronique:
+
+1- Carte arduino
+2- ecran LCD 16 * 2
+3- Breadboard (platine de connection)
+4- LEDs + resistances
+5- Fils de connections
+6- Servo moteur a rotation continue
+7- un clavier numerique 4*4
+8- buzzer

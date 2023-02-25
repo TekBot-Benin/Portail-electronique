@@ -1,0 +1,16 @@
+Composant pour le portail electronique:
+
+1- Carte arduino
+2- LCD 16 * 2
+3- Breadboard (platine de connection)
+4- LEDs + resistances
+5- Fils de connections
+6- Module interface i2c pour lcd
+7- Lecteur RFID rc255 + bages RFID
+8- Capteur ultra son
+9- Serveau mateur a rotation continue
+10- Engrenages + cremalliere
+11- un clavier
+12- LCD 16*2 (l'afficheur)
+13- arduino uno
+14- baiseur
